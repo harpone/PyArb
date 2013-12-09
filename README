@@ -7,3 +7,5 @@ https://rawgithub.com/harpone/PyArb/master/PyArb%20Intro.html
 Since this is only a backtest module, I've decided to do a "walk-forward" with the optimized parameters from this backtest. In practice this would be just another backtest but the rules are that the parameters cannot be changed to make sure there's no data snooping. Feel free to check out the progress at my homepage at http://www.heikkiarponen.net
 
 If you have any questions, drop me an email at heikki.a.arponen@gmail.com.
+
+NOTE: Unfortunately I can't include the data here because 1) The files are way too big and 2) I don't think I'm allowed to (I guess it's in the TOS/EULA somewhere...). So you have to get your own data. I got some free data at thebonnotgang.com, but their data seems to be pretty dirty. I also got some paid data from eoddata.com (data format is "3F VIP Trading"), which seems to be of higher quality that TBG's. If you want the same data I was using, send me an email and maybe I can send it to you e.g. via Dropbox/Google Drive etc.
