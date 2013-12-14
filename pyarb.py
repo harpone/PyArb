@@ -474,7 +474,7 @@ tr_fac*self.capital[t - 1]*(1+pf_pos*(np.dot(X[t],openxi)-openprice)/openval\
                 
                 
     def show(self, t, mode = 0, day=0, past = 1, future = 1):
-        """Show the process X(s).xi(t) for s <= t.
+        """Show the process X(s).xi(t) for s.
         """
         plt.figure(figsize=(12, 9))
         #set xticks.. TAKES TIME, GET RID OF AFTER DEBUG
