@@ -1,3 +1,4 @@
+UPDATE 2016: don't use this, it's crap :)
 Hi! This is a model dependent equity statistical arbitrage backtest module for Python. Roughly speaking, the input is a universe of N stock prices over a selected time period, and the output is a mean reverting portfolio which can be used for trading. 
 
 Please see a more complete introduction in the IPython Notebook file "PyArb Intro.ipynb". If you don't have IPython installed and/or want to just see the results, you can instead view the corresponding HTML version "PyArb Intro.html". Please note that just clicking the file in GitHub opens the raw version, so instead click the following link to see the actual notebook:
